@@ -22,11 +22,10 @@ main {
 .container {
   background-color: hsl(244, 38%, 16%);
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 3fr;
   width: 90%;
   margin: 5rem 0;
   justify-items: center;
-  align-items: center;
   border-radius: 1rem;
 }
 
@@ -63,13 +62,11 @@ main {
 }
 
 #main-heading {
-  font-size: 1.5rem;
   font-weight: 900;
   color: hsl(0, 0%, 100%);
   text-align: center;
   font-size: 2rem;
-  padding: 1.5rem;
-  margin: 0 1rem;
+  padding: 2rem;
 }
 
 .insight {
@@ -80,26 +77,36 @@ main {
   color: hsla(0, 0%, 100%, 0.75);
   margin: 0 1rem;
   text-align: center;
-  padding: 0 1rem;
+  padding: 1rem;
   letter-spacing: .1rem;
   word-spacing: .1rem;
+}
+
+.middle {
+  text-align: center;
+  align-items: start;
+}
+
+ul {
+  margin-top: 2.5rem;
+}
+
+li {
+  padding: 0.5rem;
 }
 
 .stat-heading {
   color: hsla(0, 0%, 100%, 0.6);
   font-weight: 900;
+  font-size: 2rem;
 }
 
 .stat {
-  color: hsl(0, 0%, 100%)
+  color: hsl(0, 0%, 100%);
 }
 
-.bottom {
-  text-align: center;
-}
-
-.statistic {
-  margin: 1.5rem 0;
+.child-stat {
+  margin-top: 3rem;
 }
 
 /* Desktop Design */
