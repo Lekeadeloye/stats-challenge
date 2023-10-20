@@ -121,7 +121,7 @@ li {
   }
 }
 
-@media only screen and (min-width: 770px) and (max-width: 1115px) {
+@media only screen and (min-width: 830px) and (max-width: 1115px) {
   .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -159,14 +159,16 @@ li {
     font-size: 1.25rem;
     text-align: left;
     max-width: 500px;
+    padding: 0.5rem;
+    margin-left: 1rem;
     
   }
 
   .main-paragraph {
     color: hsla(0, 0%, 100%, 0.75);
-    margin: 0 1rem;
+    /* margin: 0 1rem; */
     text-align: left;
-    padding: 1rem;
+    padding: 0.5rem;
     letter-spacing: .1rem;
     word-spacing: .1rem;
     max-width: 450px;
@@ -174,7 +176,7 @@ li {
   }
 
   ul {
-    padding: 1.5rem;
+    padding: 0.5rem;
     display: flex;
     align-items: baseline;
     flex-direction: row;
@@ -189,7 +191,8 @@ li {
 
   .stat-heading {
     color: hsl(0, 0%, 100%);
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    /* padding: 1rem; */
   }
   
   .stat {
