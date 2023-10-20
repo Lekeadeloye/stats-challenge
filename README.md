@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Lekeadeloye/stats-challenge](https://github.com/Lekeadeloye/stats-challenge)
+- Live Site URL: [ https://lekeadeloye.github.io/stats-challenge/]( https://lekeadeloye.github.io/stats-challenge/)
 
 ## My process
 
@@ -50,6 +50,6 @@ I also will now be moving ono completing challenges in React.
 
 ## Author
 
-- GitHub - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Instagram - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [https://github.com/Lekeadeloye](https://www.your-site.com)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Beezy100](https://www.frontendmentor.io/profile/yourusername)
+- Instagram - [https://instagram.com/webdevleks](https://www.twitter.com/yourusername)
